@@ -43,17 +43,17 @@ Filling Info Boxes:
 
 * In the "Infobox" folder, there are empty TRES files for each of our objects.
 * These files can be edited with an editor, Notepad++, or a similar program (right-click > "Open with...").
-* Each info box has five values: Label, Year, Word Explanation, and Text Example.
+* Each info box has five values: Label, Year, Etymology, History and Text Example.
 * Changing the text between the quotation marks after the equals sign will alter the value displayed in the info box.
-* The formal structure of the TRES files should not be modified.
+* The formal structure of the TRES files must not be modified.
 * Info boxes can also be edited directly within the viewer.
 * You can enter the desired value into the respective input field (including copy and paste) and save it by pressing the Enter key.
 * The associated TRES file will be automatically updated.
-* TRES files can be easily shared and overwritten, for example, by uploading them to the LRZ server.
+* TRES files can be easily shared and overwritten by simple copy and pasting them into the infobox folder.
 
 Integrating Images:
 
-* You can place images in the "Illustrations" folder.
+* You can place images in the "Illustrationen" folder.
 * The name of the image file must always match the file name of the corresponding object.
 * The object name is displayed in the object viewer, usually in the bottom right corner.
 * It is generally identical to the PCK file name, except for object sets (e.g., teeth).
