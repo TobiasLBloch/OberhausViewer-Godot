@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Infobox_Inhalte.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Bezeichnung = "Armbrust"
+Jahr = "1475/1500"
+Etymologie = "lat. arcuballista > mlat. arbalista"
+Geschichte = "engl. arbalest"
+Textbeispiel = "Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin. Swer durch den banvorst ritet siniu arenbrust vnd sine bogen suln ungespannen sin."

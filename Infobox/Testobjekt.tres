@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Infobox_Inhalte.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+Bezeichnung = "Würfel"
+Jahr = "2022"
+Etymologie = "ahd. wurfil; zum Verb werfen"
+Geschichte = "Schon der Grieche Pythagoras beschrieb den Würfel als geometrischen Körper."
+Textbeispiel = "Die Würfel sind gefallen."
